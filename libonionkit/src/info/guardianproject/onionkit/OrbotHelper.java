@@ -1,7 +1,8 @@
 
-package info.guardianproject.onionkit.ui;
+package info.guardianproject.onionkit;
 
 import info.guardianproject.onionkit.R;
+import info.guardianproject.onionkit.ui.TorServiceUtils;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Context;
